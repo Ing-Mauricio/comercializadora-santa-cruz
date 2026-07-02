@@ -118,6 +118,10 @@ JavaScript
 
 Git
 
+## Control de Versiones
+
+Repositorio administrado mediante Git y GitHub utilizando Git Flow.
+
 # comercializadora-santa-cruz
 Sistema de Gestión Comercializadora Santa Cruz S.R.L.
 >>>>>>> f793ba95f4d96d8b0b87fd8a00f5d32b4470384f
