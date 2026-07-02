@@ -10,4 +10,4 @@ Todos los cambios importantes del proyecto serán documentados en este archivo.
 - Login
 - Dashboard
 - Clientes
-- Productos
+- Productos 
