@@ -101,27 +101,6 @@ Si no subes ninguna, se usa automáticamente un ícono de reemplazo
   IEEE 730, casos de prueba caja blanca/negra, capturas e informe APA 7)
   usando este sistema real como base.
 =======
-
-## Arquitectura
-
-El sistema fue desarrollado utilizando el patrón Modelo Vista Controlador (MVC).
-
-## Tecnologías
-
-PHP
-
-MySQL
-
-Bootstrap
-
-JavaScript
-
-Git
-
-## Control de Versiones
-
-Repositorio administrado mediante Git y GitHub utilizando Git Flow.
-
 # comercializadora-santa-cruz
 Sistema de Gestión Comercializadora Santa Cruz S.R.L.
 >>>>>>> f793ba95f4d96d8b0b87fd8a00f5d32b4470384f
